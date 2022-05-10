@@ -3,7 +3,7 @@ package guru.springframework.sfgpetclinic.Model;
 import java.time.LocalDate;
 
 // close POJOs
-public class Pet {
+public class Pet extends BaseEntity{
 
   private PetType petType;
   private Owner owner;
