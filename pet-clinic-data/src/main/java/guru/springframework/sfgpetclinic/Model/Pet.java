@@ -1,7 +1,6 @@
 package guru.springframework.sfgpetclinic.Model;
 
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 
 // close POJOs
 public class Pet {
