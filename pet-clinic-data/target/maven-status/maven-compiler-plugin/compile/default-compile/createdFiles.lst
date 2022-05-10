@@ -1,5 +1,9 @@
 guru\springframework\sfgpetclinic\Model\Vet.class
+guru\springframework\sfgpetclinic\Services\PetService.class
 guru\springframework\sfgpetclinic\Model\PetType.class
+guru\springframework\sfgpetclinic\Model\BaseEntity.class
+guru\springframework\sfgpetclinic\Services\OwnerService.class
+guru\springframework\sfgpetclinic\Services\VetService.class
 guru\springframework\sfgpetclinic\Model\Owner.class
 guru\springframework\sfgpetclinic\Model\Person.class
 guru\springframework\sfgpetclinic\Model\Pet.class
